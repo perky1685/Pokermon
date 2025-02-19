@@ -2569,6 +2569,30 @@ return {
                   "{C:inactive}(#3#){}"
                 }
             },
+            j_poke_tapu_koko = {
+                name = "Tapu Koko",
+                text = {
+                  "Tapu Koko description",
+                }
+            },
+            j_poke_tapu_lele = {
+                name = "Tapu Lele",
+                text = {
+                  "Tapu Lele description",
+                }
+            },
+            j_poke_tapu_bulu = {
+                name = "Tapu Bulu",
+                text = {
+                  "Tapu Bulu description",
+                }
+            },
+            j_poke_tapu_fini = {
+                name = "Tapu Fini",
+                text = {
+                  "Tapu Fini description",
+                }
+            },
             j_poke_yamper = {
                 name = 'Yamper',
                 text = {
